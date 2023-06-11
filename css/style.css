@@ -1,0 +1,43 @@
+.menu-title {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 2.5rem;
+    color: #FF6384;
+    /* 柔和的粉色 */
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.hamburger-icon {
+    color: #FF0000;
+    /* 设置为您喜欢的颜色值 */
+}
+
+/* 品牌样式 */
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #FFFFFF;
+    /* 白色字体 */
+}
+
+.navbar {
+    background-color: #FF8000;
+    /* 橙色背景 */
+}
+
+.nav-item img {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+}
+
+h3 {
+    color: red;
+    font-family: 'Comic Sans MS', sans-serif;
+    border-bottom: 2px solid red;
+}
+.row{
+	background-color: #98FB98;
+}
